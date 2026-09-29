@@ -1,2 +1,2 @@
 # Amazon-Sales-Analysis
-powerbi-Dashboard(Amazon_Sales_Analysis_Dashboard.png)
+powerbi-Dashboard(https://github.com/Sagar-DataAnalyst/Amazon-Sales-Analysis-Dashboard/blob/main/Amazon_Sales_Analysis_Dashboard.pn)
